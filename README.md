@@ -1,2 +1,2 @@
-# buubleSortVisualization
+# bubleSortVisualization
 Visualize bubblesort!
